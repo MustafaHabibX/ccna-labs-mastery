@@ -7,7 +7,7 @@ This project demonstrates my practical networking skills, troubleshooting abilit
 
 <p align="center">
   <a href="Lab-01-VLAN-Configuration/README.md">
-    <img src="assets/banner.png" alt="CCNA Labs Mastery project banner" width="850"/>
+    <img src="assets/banner.webp" alt="CCNA Labs Mastery project banner" width="850"/>
   </a>
 </p>
 
