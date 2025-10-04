@@ -243,8 +243,8 @@ C:\> ipconfig /all
 **Steps:**
 
 ```plaintext
-SW1(config)# clear mac address-table dynamic
-SW2(config)# clear mac address-table dynamic
+SW1# clear mac address-table dynamic
+SW2# clear mac address-table dynamic
 ```
 
 ### Screenshots
