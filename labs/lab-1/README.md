@@ -35,6 +35,7 @@ By completing this lab, you will be able to:
 - [Task 8: Verify Enable Secret Priority](#task-8-verify-enable-secret-priority)
 - [Task 9: Compare Encryption Types](#task-9-compare-encryption-types)
 - [Task 10: Save Configuration](#task-10-save-configuration)
+- [Device Configurations](#device-configurations)
 - [Summary](#summary)
 
 <br>
@@ -285,6 +286,15 @@ SW1# copy running-config startup-config
   <p align="center">
     <img src="assets/14.webp" alt="Saving configuration" width="500"/>
   </p>
+
+<br>
+
+---
+
+## Device Configurations
+
+- [R1 Config](configs/R1.txt)
+- [SW1 Config](configs/SW1.txt)
 
 <br>
 
