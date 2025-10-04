@@ -28,6 +28,7 @@ By completing this lab, you will be able to:
 - [Task 3: Populate MAC Address Tables](#task-3-populate-mac-address-tables)
 - [Task 4: View MAC Address Tables](#task-4-view-mac-address-tables)
 - [Task 5: Clear Dynamic MAC Addresses](#task-5-clear-dynamic-mac-addresses)
+- [Device Configurations](#device-configurations)
 - [Summary](#summary)
 
 <br>
@@ -269,6 +270,21 @@ SW2# clear mac address-table dynamic
   <img src="assets/28.webp" alt="Confirm SW2 MAC address table cleared" width="500"/>
 </p>
 
+<br>
+
+---
+
+## Device Configurations
+
+- [SW1 Config](configs/SW1.txt)
+- [SW2 Config](configs/SW2.txt)
+- [PC1 Config](configs/PC1.txt)
+- [PC2 Config](configs/PC2.txt)
+- [PC3 Config](configs/PC3.txt)
+- [PC4 Config](configs/PC4.txt)
+
+<br>
+
 ---
 
 ## Summary
@@ -279,6 +295,8 @@ In this lab, you:
 - Learned how switches populate MAC address tables.
 - Verified ICMP ping communication between PCs.
 - Cleared dynamic MAC addresses and confirmed table updates.
+
+---
 
 <br>
 <br>
