@@ -91,6 +91,8 @@ PC1> ping 192.168.1.3
 - Switches learn the MAC address of PC3 from the source MAC of the ARP-reply frame.
 - Once PC1 knows PC3’s MAC, it can send ICMP echo requests (ping) directly to PC3.
 
+<br>
+
 ---
 
 ## Task 2: Verify ARP and ICMP with Simulation Mode
@@ -175,6 +177,8 @@ PC1> ping 192.168.1.3
 
 **Result:** First ping triggers ARP; subsequent pings go directly since MAC addresses are learned.
 
+<br>
+
 ---
 
 ## Task 3: Populate MAC Address Tables
@@ -187,6 +191,8 @@ PC1> ping 192.168.1.4
 PC2> ping 192.168.1.3
 ... (ping for all PCs in each of them)
 ```
+
+<br>
 
 ---
 
@@ -236,6 +242,8 @@ C:\> ipconfig /all
 <p align="center">
   <img src="assets/24.webp" alt="PC4 MAC address" width="500"/>
 </p>
+
+<br>
 
 ---
 
