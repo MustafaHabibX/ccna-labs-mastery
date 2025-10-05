@@ -34,10 +34,11 @@ This repo reflects **industry-standard networking practices** and is intended as
 
 ## Lab Dashboard
 
-| Lab #                     | Lab Name & Topic       | Description                                                 | Link                               |
-| ------------------------- | ---------------------- | ----------------------------------------------------------- | ---------------------------------- |
-| [1](labs/lab-1/README.md) | CLI Introduction       | Introduction of Cisco CLI and some basic configurations     | [View Lab 1](labs/lab-1/README.md) |
-| [2](labs/lab-2/README.md) | Ethernet LAN Switching | Practice with MAC address tables, switching, and ping tests | [View Lab 2](labs/lab-2/README.md) |
+| Lab #                     | Lab Name & Topic       | Description                                                              | Link                               |
+| ------------------------- | ---------------------- | ------------------------------------------------------------------------ | ---------------------------------- |
+| [1](labs/lab-1/README.md) | CLI Introduction       | Introduction of Cisco CLI and some basic configurations                  | [View Lab 1](labs/lab-1/README.md) |
+| [2](labs/lab-2/README.md) | Ethernet LAN Switching | Practice with MAC address tables, switching, and ping tests              | [View Lab 2](labs/lab-2/README.md) |
+| [3](labs/lab-3/README.md) | IPv4 Configurations    | Configure router interfaces and host IPs, verify connectivity using ping | [View Lab 3](labs/lab-3/README.md) |
 
 <br>
 
