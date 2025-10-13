@@ -1,0 +1,3 @@
+IPv4 Address: 182.98.0.1
+Subnet Mask: 255.255.0.0
+Default Gateway: 182.98.255.254
